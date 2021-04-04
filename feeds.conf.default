@@ -6,7 +6,7 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git management https://github.com/openwrt-management/packages.git
-#src-git oldpackages http://git.openwrt.org/packages.git
+src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git helloworld https://github.com/fw876/helloworld
 
@@ -14,5 +14,8 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small.git
 
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git
+<<<<<<< HEAD
 
 #src-git kenzo1 https://github.com/kenzok8/openwrt-packages-1.git
+=======
+>>>>>>> 7091fc6c63abf06c3b55251b7171190ac589522d
